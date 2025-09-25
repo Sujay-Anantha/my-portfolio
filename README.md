@@ -8,7 +8,7 @@ This site is a showcase of my work, skills, and journey as a **Machine Learning 
 ---
 
 ## 👋 About Me
-I’m Sujay Anantha, a **Machine Learning Engineer / Data Analyst** with 4+ years of experience building and deploying AI/ML solutions.  
+I’m Sujay Anantha, a **Machine Learning Engineer / Data Analyst** with 3+ years of experience building and deploying AI/ML solutions.  
 My focus is on **LLMs, MLOps, Data Engineering, and Analytics**, and I enjoy working at the intersection of research and production.
 
 - 🎓 MS in Computer Engineering, **NYU Tandon School of Engineering**  
