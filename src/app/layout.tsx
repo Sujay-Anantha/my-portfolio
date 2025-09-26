@@ -1,3 +1,6 @@
+//layout.tsx
+import "./globals.css";
+
 export const metadata = {
   title: "Sujay Anantha — Portfolio",
   description: "ML/AI Engineer building data products and delightful UX.",
